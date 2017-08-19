@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="action_job">Взять на работу)</string>
+    <string name="repo_cnt">Публичных репозиториев</string>
+    <string name="good_luck">Удачного дня </string>
+    <string name="not_online">Отсутствует подключение к интеренету</string>
+</resources>

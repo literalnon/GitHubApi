@@ -1,0 +1,39 @@
+<resources>
+    <!--fab dimens-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+
+    <!--text dimens-->
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="big_text_margin">24dp</dimen>
+    <dimen name="my_text_size">20sp</dimen>
+    <dimen name="text_elevation">1sp</dimen>
+    <dimen name="text_padding">8dp</dimen>
+
+    <!--card dimens-->
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="small_card_height">100dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_bottom_margin">16dp</dimen>
+    <dimen name="view_in_card_height">140dp</dimen>
+    <dimen name="view_in_card_width">150dp</dimen>
+
+    <!--image dimens-->
+    <dimen name="image_elevation">4dp</dimen>
+    <dimen name="image_margin">16dp</dimen>
+
+    <!--background text dimens-->
+    <dimen name="background_padding">12dp</dimen>
+    <dimen name="background_stroke">1dp</dimen>
+    <dimen name="background_radius">15dp</dimen>
+
+    <dimen name="horizontal_margin_small">8dp</dimen>
+    <dimen name="appbar_elevation">4dp</dimen>
+    <dimen name="rv_margin_horizontal">20dp</dimen>
+    <dimen name="rv_margin_vertical">30dp</dimen>
+
+
+
+
+</resources>
