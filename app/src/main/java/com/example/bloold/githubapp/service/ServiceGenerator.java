@@ -21,7 +21,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ServiceGenerator {
 
-    static private final String PERSONAL_TOKEN = "14f30e9f697093ffa61c2cadc1ca4cb51d65b4c2";
+    static private final String PERSONAL_TOKEN = //"14f30e9f697093ffa61c2cadc1ca4cb51d65b4c2";
     static private final String GIT_HUB_API_URL = "https://api.github.com/";
 
     private static Retrofit getRetrofit() {
